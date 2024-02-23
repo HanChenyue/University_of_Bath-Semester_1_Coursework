@@ -1,4 +1,4 @@
-# Semester_1_Coursework
+# Semester 1 Coursework
 ## Repository for 2023 Semester 1 Coursework 
 
 * __CM50264__ Machine Learning 1
